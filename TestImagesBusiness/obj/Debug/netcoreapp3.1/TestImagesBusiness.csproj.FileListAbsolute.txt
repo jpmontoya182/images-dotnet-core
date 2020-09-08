@@ -1,0 +1,9 @@
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.deps.json
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.dll
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.pdb
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.csprojAssemblyReference.cache
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.AssemblyInfoInputs.cache
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.AssemblyInfo.cs
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.csproj.CoreCompileInputs.cache
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.dll
+c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.pdb
