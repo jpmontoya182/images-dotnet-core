@@ -7,3 +7,12 @@ c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusines
 c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.csproj.CoreCompileInputs.cache
 c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.dll
 c:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.pdb
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.deps.json
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.dll
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\bin\Debug\netcoreapp3.1\TestImagesBusiness.pdb
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.csprojAssemblyReference.cache
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.AssemblyInfoInputs.cache
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.AssemblyInfo.cs
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.dll
+C:\Users\juan.montoya\Desktop\viacheck_mobile\manipuled-images-helper\TestImagesBusiness\obj\Debug\netcoreapp3.1\TestImagesBusiness.pdb

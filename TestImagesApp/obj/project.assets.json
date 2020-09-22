@@ -171,11 +171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesApp\\TestImagesApp.csproj",
+      "projectUniqueName": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesApp\\TestImagesApp.csproj",
       "projectName": "TestImagesApp",
-      "projectPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesApp\\TestImagesApp.csproj",
+      "projectPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesApp\\TestImagesApp.csproj",
       "packagesPath": "C:\\Users\\juan.montoya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesApp\\obj\\",
+      "outputPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -195,8 +195,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\TestImagesBusiness.csproj": {
-              "projectPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\TestImagesBusiness.csproj"
+            "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\TestImagesBusiness.csproj": {
+              "projectPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\TestImagesBusiness.csproj"
             }
           }
         }
@@ -231,7 +231,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20417.9\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
       }
     }
   }

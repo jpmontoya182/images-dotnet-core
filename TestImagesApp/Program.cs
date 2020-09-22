@@ -10,10 +10,26 @@ namespace TestImagesApp
     {
         static void Main(string[] args)
         {
-            String pathFile = @"C:\Users\juan.montoya\Desktop\viacheck_mobile\test-images\ImageOriginal6.tiff";
-            // byte[] ImageInArrayOfBytes = LoadImagesFromFiles.ImageToByteArray(pathFile);
-            var ImageBase64 = LoadImagesFromFiles.ImageToBase64(pathFile);
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter path of image to process");
+            string pathFile = Console.ReadLine();
+            Console.WriteLine("1. ImageToByteArray");
+            Console.WriteLine("2. ImageToBase64");
+            string option = Console.ReadLine();
+
+            switch (option)
+            {
+                case "1":
+                    byte[] ImageInArrayOfBytes = LoadImagesFromFiles.ImageToByteArray(pathFile);
+                    break;
+                case "2":
+                    var ImageBase64 = LoadImagesFromFiles.ImageToBase64(pathFile);
+                    break;
+                default:
+                    break;
+
+            }
+            // @"C:\Users\juan.montoya\Desktop\viacheck_mobile\images\ImageOriginal6.tiff";
+            // C:\Users\juan.montoya\Desktop\viacheck_mobile\images\agency-examples\20200622_185110_22.jpg
             Console.ReadLine();
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/tnARaIOk8iYYIUZhIH03irPS+HUB1bYDpSHF+uWkw8KI57RAue8OxBuez6MWXiY9jIqOIW7LdUqJvQO3YHorQ==",
+  "dgSpecHash": "ERcA/yzCn+Wcjyo8n58JoyW6UblKRKBbmnvanIqSm8ZRhapXFYBMbB1iWb/Bs/ciazmrWRhenb+kbxkDipiYTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\TestImagesBusiness.csproj",
+  "projectFilePath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\TestImagesBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juan.montoya\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\juan.montoya\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

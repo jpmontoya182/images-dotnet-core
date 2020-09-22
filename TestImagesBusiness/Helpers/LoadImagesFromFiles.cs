@@ -2,6 +2,7 @@ using System.IO;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System;
+using System.Text;
 
 namespace TestImagesBusiness.Helpers
 {
@@ -28,6 +29,7 @@ namespace TestImagesBusiness.Helpers
         public static string ImageToBase64(string pathFile)
         {
             Image GetImage = ImageFromFile(pathFile);
+            StringBuilder result = new StringBuilder();
 
             using (MemoryStream stream = new MemoryStream())
             {
@@ -36,8 +38,8 @@ namespace TestImagesBusiness.Helpers
                 byte[] imageBytes = stream.ToArray();
 
                 // Convert byte[] to Base64 String
-                string base64String = Convert.ToBase64String(imageBytes);
-                return base64String;
+                result.Append(Convert.ToBase64String(imageBytes));
+                return result.ToString();
             }
         }
 

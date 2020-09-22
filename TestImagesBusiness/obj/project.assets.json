@@ -153,11 +153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\TestImagesBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\TestImagesBusiness.csproj",
       "projectName": "TestImagesBusiness",
-      "projectPath": "c:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\TestImagesBusiness.csproj",
+      "projectPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\TestImagesBusiness.csproj",
       "packagesPath": "C:\\Users\\juan.montoya\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images\\TestImagesBusiness\\obj\\",
+      "outputPath": "C:\\Users\\juan.montoya\\Desktop\\viacheck_mobile\\manipuled-images-helper\\TestImagesBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -215,7 +215,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20417.9\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
       }
     }
   }
